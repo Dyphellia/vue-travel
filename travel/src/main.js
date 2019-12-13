@@ -4,8 +4,9 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import fastClick from 'fastclick'
-import './assets/styles/reset.css'
-import './assets/styles/border.css'
+import 'styles/reset.css'
+import 'styles/border.css'
+import 'styles/iconfont.css'
 /* border.css解决多倍屏幕1px问题 */
 /* 部分移动端机型使用click存在300ms延迟事件,引入fastClick解决*/
 
