@@ -21,10 +21,22 @@
         },
         swiperList: [{
           id: '001',
-          imgUrl: 'http://e.hiphotos.baidu.com/image/pic/item/359b033b5bb5c9eac1754f45df39b6003bf3b396.jpg'
+          imgUrl: 'https://source.qunarzz.com/site/images/wns/201901206_dujia_homepage_5.jpg'
         }, {
           id: '002',
-          imgUrl: 'http://b.hiphotos.baidu.com/image/pic/item/908fa0ec08fa513db777cf78376d55fbb3fbd9b3.jpg'
+          imgUrl: 'https://source.qunarzz.com/site/images/wns/20191209_qunar_dujia_750x192_1.jpg'
+        },{
+          id: '003',
+          imgUrl: 'https://source.qunarzz.com/site/images/wns/20191210_qunar_dujia_banner750x192_4.jpg'
+        },{
+          id: '004',
+          imgUrl: 'https://source.qunarzz.com/site/images/wns/20191212_qunar_dujia_750x192_3.jpg'
+        },{
+          id: '005',
+          imgUrl: 'https://source.qunarzz.com/site/images/wns/20191213_qunar_dujia_750x192_2.jpg'
+        },{
+          id:'006',
+          imgUrl:'https://source.qunarzz.com/site/images/wns/20191213_qunar_dujia_homepage_750x192_6.jpg'
         }]
       }
     },
