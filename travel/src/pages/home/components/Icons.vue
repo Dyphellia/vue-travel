@@ -16,58 +16,18 @@
 <script>
   export default {
     name: "HomeIcons",
+    props: {
+      list: Array,
+    },
     data: function () {
       return {
-        swiperOption: {
-        },
-        iconList: [{
-          id: "001",
-          imgUrl: 'https://imgs.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png',
-          desc: '景点门票'
-        }, {
-          id: "002",
-          imgUrl: 'https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/a40ee278d67000f2a29d2e20f6a029b3.png',
-          desc: '自然风光'
-        }, {
-          id: "003",
-          imgUrl: 'https://imgs.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png',
-          desc: '一日游'
-        }, {
-          id: "004",
-          imgUrl: 'https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/bda58ffc3016edad84e656e8a94b0321.png',
-          desc: '文娱融创'
-        }, {
-          id: "005",
-          imgUrl: 'https://imgs.qunarzz.com/piao/fusion/1803/fa/2548667cb6e902.png',
-          desc: '动植物园'
-        }, {
-          id: "006",
-          imgUrl: 'https://imgs.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png',
-          desc: '必玩景点',
-        },
-          {
-            id: "007",
-            imgUrl: 'https://imgs.qunarzz.com/piao/fusion/1803/fa/2548667cb6e902.png',
-            desc: '动植物园'
-          }, {
-            id: "008",
-            imgUrl: 'https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/bda58ffc3016edad84e656e8a94b0321.png',
-            desc: '文娱融创'
-          }, {
-            id: "009",
-            imgUrl: 'https://imgs.qunarzz.com/piao/fusion/1803/fa/2548667cb6e902.png',
-            desc: '动植物园'
-          }, {
-            id: "010",
-            imgUrl: 'https://imgs.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png',
-            desc: '必玩景点',
-          }]
+        swiperOption: {},
       }
     },
     computed: {
       pages: function () {
         const pages = [];
-        this.iconList.forEach((item, index) => {
+        this.list.forEach((item, index) => {
           const page = Math.floor(index / 8)
           if (!pages[page]) {
             pages[page] = []

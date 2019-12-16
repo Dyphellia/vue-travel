@@ -1,0 +1,148 @@
+{
+  "ret": true,
+  "data": {
+    "city":"广州",
+    "swiperList": [
+      {
+        "id": "001",
+        "imgUrl": "https://source.qunarzz.com/site/images/wns/201901206_dujia_homepage_5.jpg"
+      },
+      {
+        "id": "002",
+        "imgUrl": "https://source.qunarzz.com/site/images/wns/20191209_qunar_dujia_750x192_1.jpg"
+      },
+      {
+        "id": "003",
+        "imgUrl": "https://source.qunarzz.com/site/images/wns/20191210_qunar_dujia_banner750x192_4.jpg"
+      },
+      {
+        "id": "004",
+        "imgUrl": "https://source.qunarzz.com/site/images/wns/20191212_qunar_dujia_750x192_3.jpg"
+      },
+      {
+        "id": "005",
+        "imgUrl": "https://source.qunarzz.com/site/images/wns/20191213_qunar_dujia_750x192_2.jpg"
+      },
+      {
+        "id": "006",
+        "imgUrl": "https://source.qunarzz.com/site/images/wns/20191213_qunar_dujia_homepage_750x192_6.jpg"
+      }
+    ],
+    "iconList": [
+      {
+        "id": "001",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "desc": "景点门票"
+      },
+      {
+        "id": "002",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/a40ee278d67000f2a29d2e20f6a029b3.png",
+        "desc": "自然风光"
+      },
+      {
+        "id": "003",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+        "desc": "一日游"
+      },
+      {
+        "id": "004",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/bda58ffc3016edad84e656e8a94b0321.png",
+        "desc": "文娱融创"
+      },
+      {
+        "id": "005",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/fa/2548667cb6e902.png",
+        "desc": "动植物园"
+      },
+      {
+        "id": "006",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "desc": "必玩景点"
+      },
+      {
+        "id": "007",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/fa/2548667cb6e902.png",
+        "desc": "动植物园"
+      },
+      {
+        "id": "008",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/bda58ffc3016edad84e656e8a94b0321.png",
+        "desc": "文娱融创"
+      },
+      {
+        "id": "009",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/fa/2548667cb6e902.png",
+        "desc": "动植物园"
+      },
+      {
+        "id": "010",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "desc": "必玩景点"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": "0001",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1912/70/7022f1d4ce9c62d8a3.water.jpg_200x200_0721432c.jpg",
+        "title": "长隆野生动物世界",
+        "desc": "野生动物世界考拉园：“欢欢”和“乐乐”，还有“四代同堂”的考拉大家族，将给游客带来更多欢乐！长隆大熊猫中心：长隆野生动物世界的心脏位置。在2013年7月31日出生的，广东首只大熊猫宝宝以及2014年7月29，都在这里生活。金蛇秘境：全世界知名的20多个蛇精英种族，全都聚会于此，“金蛇秘境”结合原生态蛇生活环境，为游客创造与蛇近距离接触的条件，体验蛇界的缤纷斑斓和灵气，发现它们亲和、美丽、祥瑞的一面！"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1912/15/151834b2b546d398a3.water.jpg_200x200_051ba581.jpg",
+        "title": "广州长隆旅游度假区",
+        "desc": "长隆国际大马戏拥有全球首创实景式马戏舞台，为你打造令人惊叹的视听盛宴。这里有全球过山车之王--垂直过山车，敢挑战吗？"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/201403/10/304b115ac96857308547caf29b96158c.jpg_200x200_af9b3589.jpg",
+        "title": "广州星期8小镇",
+        "desc": "小朋友扮演中医药剂师，可认识中药的名称及功效，通过一系列抓药、称重、包装等步骤，培养小朋友的动手能力和简单的记忆识别能力。"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1507/72/72d087ebb95580c2.img.jpg_200x200_4f9d01ca.jpg",
+        "title": "南沙湿地公园",
+        "desc": "南沙湿地种有千亩荷花，随风摇曳的荷花在一望无际的田田荷叶间起舞，秀美绝伦，构成夏日里醉人的风景。荷韵悠悠，飘香万里，让人心旷神怡，流连忘返。"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201308/23/b283071686e64dfec8d65eac.jpg_140x140_8c5a7c49.jpg",
+        "title": "温都水城养生馆",
+        "desc": "各种亚热带植物掩映其间仿佛置身热带雨林"
+      }
+    ],
+    "weekendList": [
+      {
+        "id": "0001",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg",
+        "title": "清远周边逛",
+        "desc": "人人都有一双发现美的眼睛，身边的事物最熟悉不过，那你可曾发现了被人遗漏的美？"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1811/b8/5d599bbdcf8b57.jpg_r_640x214_2ee055e3.jpg",
+        "title": "浮在海上的绿洲",
+        "desc": "南国滨海之城，避寒胜地，有暖暖的阳光，海风习习，吃着海鲜逛逛老街多惬意啊"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1602/9c/39c5ce9ff58609.jpg_r_640x214_efb90102.jpg",
+        "title": "粤西温泉",
+        "desc": "自驾粤西，这里有最全最心仪的温泉池，环境优美，舒舒服服的泡个热汤，远离繁忙的工作"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1812/fe/208e0360d686b8.jpg_r_640x214_7b9e6607.jpg",
+        "title": "广州泡汤圣地",
+        "desc": "解压之地，放松自己，来一段轻松的旅程。"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/b2/fde1bfcd057a52.jpg_r_640x214_bbf3fa44.jpg",
+        "title": "儿童剧场，孩子的乐园",
+        "desc": "带宝贝观看演出，近距离体验艺术的无穷魅力"
+      }
+    ]
+  }
+}
