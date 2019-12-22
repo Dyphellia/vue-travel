@@ -43,9 +43,6 @@
     height 0
     overflow hidden
     padding-bottom 25.59%
-
-
     .swiper-img
       width 100%
-
 </style>
