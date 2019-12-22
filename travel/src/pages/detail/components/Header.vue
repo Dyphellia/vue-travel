@@ -40,6 +40,10 @@
     },
     activated() {
       window.addEventListener('scroll', this.handleScroll)
+    },
+    deactivated() {
+      //对全局事件的解绑
+      window.removeEventListener('scroll', this.handleScroll)
     }
   }
 </script>
