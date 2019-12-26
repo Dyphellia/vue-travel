@@ -5,7 +5,7 @@
           v-for="item of letters"
           :key="item"
           :ref="item"
-          @touchstart="handleTouchStart"
+          @touchstart.prevent="handleTouchStart"
           @touchmove="handleTouchMove"
           @touchend="handleTouchEnd"
           @click="handleLetterClick">{{item}}
@@ -13,6 +13,7 @@
     </ul>
   </div>
 </template>
+<!--          prevent阻止默认行为-->
 
 <script>
   export default {
