@@ -12,9 +12,9 @@ module.exports = {
     assetsPublicPath: '/',
     proxyTable: {
       '/api': {
-        target: 'http://localhost:8080',
+        target: 'http://127.0.0.1',
         pathRewrite: {
-          '^/api': '/static/mock'
+          '^/api': '/api'
         }
       }
     },
@@ -57,6 +57,8 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
+    //修改项目的入口路径
+    // assetsPublicPath: '/travel',
     assetsPublicPath: '/',
 
     /**
